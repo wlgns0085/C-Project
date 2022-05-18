@@ -1,2 +1,2 @@
-# C-Project
-C-Class_project
+# C언어응용실습 프로젝트  
+- 
